@@ -1,0 +1,100 @@
+
+.carousel-caption {
+  position: absolute;
+  right: 15%;
+  bottom: 20px;
+  left: 15%;
+}
+.carousel-item {
+  display:block;
+}
+
+
+.home {
+position:absolute;
+}
+
+.navbar{
+  position:fixed;
+  width:100%;
+  background-color:rgba(0, 0, 0, 0.02);
+  z-index:10;
+  border-radius:0;
+  border-color:transparent;
+}
+.justify-content-center {
+  margin-left:300px;
+}
+
+.nav-item{
+  margin-left:-35px;
+  margin-right:80px;
+  font-size:1em;
+  font-weight:normal;
+}
+.nav-link {
+  color:#ffffff !important;
+}
+.nav-link:hover {
+  color:#df7f2a !important;
+}
+
+.topnav a:hover {
+  border-bottom:3px solid #df7f2a;
+}
+
+.navbar-brand {
+  position:relative;
+  margin-left:300px;
+}
+p .h1 {
+padding:50px;
+}
+
+div button {
+  width: 200px;
+  height: 50px;
+  margin-right:30px;
+  margin-left:30px;
+}
+
+.btn-outline-secondary {
+  color:#ffffff !important;
+  border-color:#ffffff !important;
+}
+
+.button button:hover {
+  background-color:#df7f2a;
+  border-color:#df7f2a !important;
+}
+
+.orange a:hover
+{
+  color:#df7f2a !important;
+  border-color:#df7f2a !important;
+  background-color:#df7f2a !important;
+}
+
+.btn-circle.btn-xl {
+    width: 70px !important;
+    height: 70px !important;
+    padding: 10px 16px !important;
+    border-radius: 35px !important;
+    font-size: 24px !important;
+    line-height: 1.33 !important;
+}
+
+.btn-circle {
+    width: 30px !important;
+    height: 30px !important;
+    padding: 6px 0px !important;
+    border-radius: 15px !important;
+    text-align: center !important;
+    font-size: 12px !important;
+    line-height: 1.42857 !important;
+}
+
+
+.col-sm-3 {
+  margin:20px;
+}
