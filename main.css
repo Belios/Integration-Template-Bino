@@ -207,5 +207,9 @@ h3 {
 }
 
 #tlepos {
-    margin-right:200px;
+
+}
+#txtpos {
+  text-align: justify, end;
+  display: inline-block;
 }
