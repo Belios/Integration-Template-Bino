@@ -8,7 +8,7 @@
   <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img class="d-block mw" src="images/homebgwhite.jpg" alt="First slide">
+        <img class="d-block w-100" src="images/homebgwhite.jpg" alt="First slide">
           <div class="carousel-caption d-none d-md-block">
             <p> Our Clients Are Our First Priority </p><Br>
               <div class="container w-75">
@@ -34,7 +34,7 @@
               </div>
               <button type="button" class="btn btn-default btn-circle btn-xl justify-content-center"><a href="#Features"><i   class="fa fa-arrow-down"></i></a></button>
             </div>
-          </div>
+        </div>
           <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="sr-only">Previous</span>
@@ -44,7 +44,6 @@
             <span class="sr-only">Next</span>
           </a>
         </div>
-      </div>
     </section> <!-- Fin page d'accueil -->
 
 <br><br><br><br><br><br><br><br>
@@ -147,11 +146,24 @@
         <div class="container-1 border-right border-5 border-dark">
         <h3 id="h3-1"> OUR SERVICES </h3>
         </div>
-        <div class="row-a d-flex justify-content-end">
+        <div class="row-a d-inline">
+          <div class="border-1 border col-sm-9 mt-5 ">
+            <div class="container color">
+              <h5 class="tlepos d-flex justify-content-end">WEB DESIGN</h5>
+              <p class="txtpos">Lorem Ipsum is simply dummy text of the printing and tyepesetting industry. Lorem Ip sum has been the industry's standard dummy text ever.</p>
+            </div>
+          </div>
           <div class="border-1 border col-sm-9 mt-5">
             <div class="container color">
               <h5 class="tlepos d-flex justify-content-end">WEB DESIGN</h5>
-              <p class="txtpos">Lorem Ipsum is simply dummy text of the printing and tyepesetting industry. Lorem Ip sum has been the industry's standard dummy text ever.</p></div>
+              <p class="txtpos">Lorem Ipsum is simply dummy text of the printing and tyepesetting industry. Lorem Ip sum has been the industry's standard dummy text ever.</p>
+            </div>
+          </div>
+          <div class="border-1 border col-sm-9 mt-5">
+            <div class="container color">
+              <h5 class="tlepos d-flex justify-content-end">WEB DESIGN</h5>
+              <p class="txtpos">Lorem Ipsum is simply dummy text of the printing and tyepesetting industry. Lorem Ip sum has been the industry's standard dummy text ever.</p>
+            </div>
           </div>
         </div>
 

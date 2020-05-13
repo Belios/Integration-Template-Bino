@@ -93,6 +93,7 @@ position:absolute;
   height:30px;
   width:30px;
 }
+/*
 .carousel-control-prev-icon:hover {
   margin:5px;
   height:30px;
@@ -105,7 +106,7 @@ position:absolute;
   width:30px;
   background-color:rgba(223, 127, 42, 0.5);
 }
-
+*/
 .btn-default a:link {
   color:  #df7f2a !important;
 }
@@ -192,6 +193,7 @@ h3 {
 .row-a{
   position:absolute;
   margin-top:200px;
+  margin-right:-200px;
 }
 
 .container-1 {
