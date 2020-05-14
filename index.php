@@ -147,21 +147,21 @@
         <h3 id="h3-1"> OUR SERVICES </h3>
         </div>
         <div class="row-a d-inline">
-          <div class="border-1 border col-sm-9 mt-5 ">
-            <div class="container color">
+          <div class="border-1 col-sm-9 mt-5 ">
+            <div class="container-2">
               <h5 class="tlepos d-flex justify-content-end">WEB DESIGN</h5>
               <p class="txtpos">Lorem Ipsum is simply dummy text of the printing and tyepesetting industry. Lorem Ip sum has been the industry's standard dummy text ever.</p>
             </div>
           </div>
-          <div class="border-1 border col-sm-9 mt-5">
-            <div class="container color">
-              <h5 class="tlepos d-flex justify-content-end">WEB DESIGN</h5>
+          <div class="border-1 col-sm-9 mt-5">
+            <div class="container-2">
+              <h5 class="tlepos d-flex justify-content-end">PRINT DESIGN</h5>
               <p class="txtpos">Lorem Ipsum is simply dummy text of the printing and tyepesetting industry. Lorem Ip sum has been the industry's standard dummy text ever.</p>
             </div>
           </div>
-          <div class="border-1 border col-sm-9 mt-5">
-            <div class="container color">
-              <h5 class="tlepos d-flex justify-content-end">WEB DESIGN</h5>
+          <div class="border-1 col-sm-9 mt-5">
+            <div class="container-2">
+              <h5 class="tlepos d-flex justify-content-end">PHOTOGRAPHY</h5>
               <p class="txtpos">Lorem Ipsum is simply dummy text of the printing and tyepesetting industry. Lorem Ip sum has been the industry's standard dummy text ever.</p>
             </div>
           </div>
@@ -170,13 +170,164 @@
       </div>
 
       <div class="col-sm-4 half-right">
-        <img src="images/servicerightimg.jpg">
-
+        <div class="container-3">
+          <img src="images/servicerightimg.jpg">
+            <button type="button" class="btn btn-success btn-circle btn-xl"><a href="#Services"><i class="fa fa-desktop"></i></a></button>
+              <button type="button" class="btn-1 btn-success btn-circle btn-xl"><a href="#Services"><i class="fa fa-print"></i></a></button>
+                <button type="button" class="btn-2 btn-success btn-circle btn-xl"><a href="#SERVICES"><i class="fa fa-camera"></i></a></button>
+        </div>
 
       </div>
     </div>
   </div>
 
+</section>
+          <!-- Fin page Services -->
+<hr>
+<br><br><br><br>
+<section id="RecentWork">
+  <div class="row d-flex justify-content-center">
+    <div class="col-sm-5 d-flex justify-content-center">
+      <div class="container-4 justify-content-center">
+        <h3 id="RWtitle"> RECENT WORKS </h3>
+        <p id="sub-title"> It has survived not only five centuries, but also the leap scrambled it to make a type. </p>
+          <div class="container-5 d-flex justify-content-center">
+            <div class="line-1">
+              <div id="circle">
+              </div>
+              <div class="line-2">
+              </div>
+            </div>
+          </div>
+        <br><br><br>
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb d-flex justify-content-center">
+            <li id="breadcrumb-active" class="breadcrumb-item active" aria-current="page">ALL</li>
+            <li class="breadcrumb-item"><a href="RecentWork">PRINT DESIGN</a></li>
+            <li class="breadcrumb-item"><a href="RecentWork">ANIMATION</a></li>
+            <li class="breadcrumb-item"><a href="RecentWork">ART</a></li>
+            <li class="breadcrumb-item"><a href="RecentWork">WEB DESIGN</a></li>
+            <li class="breadcrumb-item"><a href="RecentWork">PHOTOGRAPHY</a></li>
+            <li class="breadcrumb-item"><a href="RecentWork">VIDEO</a></li>
+          </ol>
+        </nav>
+      </div>
+    </div>
+  </div>
+  <br><br>
+<!-- Images Recent Works -->
+<div class="row">   <!-- 1ere Ligne d'images -->
+  <div class="col-sm nopadding">
+    <div class="container-6">
+      <img src="images/pf1.jpg" alt="Image1" class="imagesRW">
+      <div class="overlay">
+        <div class="line-3">
+        </div>
+        <h5>T-Shirt Design</h5>
+        <div class="text">
+            <p> art / T-shirt </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm nopadding">
+    <div class="container-6">
+      <img src="images/pf2.jpg" alt="Image2" class="imagesRW">
+      <div class="overlay">
+        <div class="line-3">
+        </div>
+        <h5>T-Shirt Design</h5>
+        <div class="text">
+            <p> art / T-shirt </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm nopadding">
+    <div class="container-6">
+      <img src="images/pf3.jpg" alt="Image3" class="imagesRW">
+      <div class="overlay-1">
+        <div class="line-3">
+        </div>
+        <h5>T-Shirt Design</h5>
+        <div class="text">
+            <p> art / T-shirt </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm nopadding">
+    <div class="container-6">
+      <img src="images/pf4.jpg" alt="Image4" class="imagesRW">
+      <div class="overlay-1">
+        <div class="line-3">
+        </div>
+        <h5>T-Shirt Design</h5>
+        <div class="text">
+            <p> art / T-shirt </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">                  <!-- 2eme Ligne d'images -->
+  <div class="col-sm nopadding">
+    <div class="container-6">
+      <img src="images/pf5.jpg" alt="Image5" class="imagesRW">
+      <div class="overlay-2">
+        <div class="line-3">
+        </div>
+        <h5>T-Shirt Design</h5>
+        <div class="text">
+            <p> art / T-shirt </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm nopadding">
+    <div class="container-6">
+      <img src="images/pf6.jpg" alt="Image6" class="imagesRW">
+      <div class="overlay-2">
+        <div class="line-3">
+        </div>
+        <h5>T-Shirt Design</h5>
+        <div class="text">
+            <p> art / T-shirt </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm nopadding">
+    <div class="container-6">
+      <img src="images/pf7.jpg" alt="Image7" class="imagesRW">
+      <div class="overlay-3">
+        <div class="line-3">
+        </div>
+        <h5>T-Shirt Design</h5>
+        <div class="text">
+            <p> art / T-shirt </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm nopadding">
+    <div class="container-6">
+      <img src="images/pf8.jpg" alt="Image8" class="imagesRW">
+      <div class="overlay-3">
+        <div class="line-3">
+        </div>
+        <h5>T-Shirt Design</h5>
+        <div class="text">
+            <p> art / T-shirt </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
 </section>
 </body>
 
