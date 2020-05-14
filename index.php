@@ -185,7 +185,7 @@
           <!-- Fin page Services -->
 <hr>
 <br><br><br><br>
-<section id="RecentWork">
+<section id="RecentWork"> <!-- Page Recent Work -->
   <div class="row d-flex justify-content-center">
     <div class="col-sm-5 d-flex justify-content-center">
       <div class="container-4 justify-content-center">
@@ -325,10 +325,38 @@
     </div>
   </div>
 </div>
+</section> <!-- Fin page Recent Work -->
+
+<br><br><br><br><br>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<section id="CaseStudy"> <!-- Page Case Study -->
+  <div class="row d-flex justify-content-center">
+    <div class="col-sm-5 d-flex justify-content-center">
+      <div class="container-4 justify-content-center">
+        <h3 id="RWtitle"> CASE STUDY </h3>
+        <p id="sub-title"> A brief story about how this process qworks, keep an eye till the end. </p>
+          <div class="container-5 d-flex justify-content-center">
+            <div class="line-1">
+              <div id="circle">
+              </div>
+              <div class="line-2">
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+
+<br>
+
+
 </section>
+
+
+
+
+
 </body>
 
 
