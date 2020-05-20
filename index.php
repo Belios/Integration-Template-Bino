@@ -33,7 +33,7 @@
                 <button type="button" class="btn btn-outline-secondary">Learn More</button>
               </div>
               <button type="button" class="btn btn-default btn-circle btn-xl justify-content-center"><a href="#Features"><i   class="fa fa-arrow-down"></i></a></button>
-            </div>
+          </div>
         </div>
           <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -115,15 +115,14 @@
 <section id="history" > <!-- Page history -->
   <div class="container">
     <div class="row">
-      <div class="d-flex bd-highlight">
-        <div class="p-2 flex-fill bd-highlight mr-3">
+        <div class="col-sm-12 col-md-6 mb-4">
         <img src="images/stab1.png">
         </div>
 
 
-        <div class="p-2 flex-fill bd-highlight ml-4">
-          <div class="container border-left border-5 border-dark ml-4 mb-4"> <h3> OUR HISTORY </h3> </div>
-          <div class="container ml-2 mt-5">
+        <div class="col-sm-12 col-md-6">
+          <div class=" border-left border-5 border-dark mb-5 pl-4"> <h3> OUR HISTORY </h3> </div>
+          <div>
           <p id="sans-serif">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. <br><br>
           The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' <p>
           </div>
@@ -132,7 +131,6 @@
         </div>
       </div>
     </div>
-  </div>
 </section> <!-- Fin History -->
 
 <br><br><br><br><br>
@@ -203,12 +201,12 @@
         <nav aria-label="breadcrumb">
           <ol class="breadcrumb d-flex justify-content-center">
             <li id="breadcrumb-active" class="breadcrumb-item active" aria-current="page">ALL</li>
-            <li class="breadcrumb-item"><a href="RecentWork">PRINT DESIGN</a></li>
-            <li class="breadcrumb-item"><a href="RecentWork">ANIMATION</a></li>
-            <li class="breadcrumb-item"><a href="RecentWork">ART</a></li>
-            <li class="breadcrumb-item"><a href="RecentWork">WEB DESIGN</a></li>
-            <li class="breadcrumb-item"><a href="RecentWork">PHOTOGRAPHY</a></li>
-            <li class="breadcrumb-item"><a href="RecentWork">VIDEO</a></li>
+            <li class="breadcrumb-item"><a href="#RecentWork">PRINT DESIGN</a></li>
+            <li class="breadcrumb-item"><a href="#RecentWork">ANIMATION</a></li>
+            <li class="breadcrumb-item"><a href="#RecentWork">ART</a></li>
+            <li class="breadcrumb-item"><a href="#RecentWork">WEB DESIGN</a></li>
+            <li class="breadcrumb-item"><a href="#RecentWork">PHOTOGRAPHY</a></li>
+            <li class="breadcrumb-item"><a href="#RecentWork">VIDEO</a></li>
           </ol>
         </nav>
       </div>
@@ -348,16 +346,84 @@
     </div>
   </div>
 
-<br>
+<br><br><br><br><br>
 
+<div class="row b-5">
+  <div class="col-sm-4">
+    <img id="imgstudy" src="Images/study.jpg">
+  </div>
+  <div class="col-sm-8">
+    <div class="card">
+      <span class="hovering">
+        <div  id="borderCI" class="border border-dark">
+          <i class="fa fa-lightbulb-o mt-3"></i>
+        </div>
+      <div class="card-body">
+        <h5 class="card-title">ACCUMULATE CREATIVE IDEAS</h5>
+        <div class="line-4">
+        </div>
+        <br><br>
+        <p class="card-text">Lorem Ipsum is simply dummy text of the printing and tyepesetting industry. Lorem Ip sum has been the industry's standard dummy text ever.Lorem Ipsum is simply dummy text of the printing and tyepesetting industry. Lorem Ip sum has been the industry's standard dummy text ever.</p>
+        <a class="btn btn-danger-2 mt-4 shadow rounded">READ MORE</a>
+        <div class="container-7">
+          <div class="pagination">
+            <a href="#" class="active">&nbsp;</a>
+            <a href="#">&nbsp;</a>
+            <a href="#">&nbsp;</a>
+          </div>
+        </div>
 
+      </div>
+    </div>
+  </div>
+</div>
 </section>
 
-
-
-
-
-</body>
+<section id="StatsBar">
+  <div class="row mt-5">
+    <div class="card bg-dark text-white vw-100">
+  <img class="card-img" src="images/counterbg.jpg" alt="Card image">
+  <div class="card-img-overlay">
+    <div class="row text-center">
+    	        <div class="col">
+    	        <div class="counter">
+          <i class="fa fa-heart-o fasize"></i>
+          <h2 class="timer count-title count-number" data-to="3891" data-speed="2000"></h2>
+           <p class="count-text ">User Favourites</p>
+        </div>
+    	        </div>
+                  <div class="col">
+                   <div class="counter">
+          <i class="fa fa-tag fasize"></i>
+          <h2 class="timer count-title count-number" data-to="281000" data-speed="2000"></h2>
+          <p class="count-text ">Posts Last 24 Hours</p>
+        </div>
+                  </div>
+                  <div class="col">
+                      <div class="counter">
+          <i class="fa fa-thumbs-o-up fasize"></i>
+          <h2 class="timer count-title count-number" data-to="618" data-speed="2000"></h2>
+          <p class="count-text ">Total Posts</p>
+        </div></div>
+                  <div class="col">
+                  <div class="counter">
+          <i class="fa fa-star-o fasize"></i>
+          <h2 class="timer count-title count-number" data-to="178" data-speed="2000"></h2>
+          <p class="count-text ">Campaigns</p>
+        </div>
+                  </div>
+                  <div class="col">
+                  <div class="counter">
+              <i class="fa fa-bookmark-o fasize"></i>
+              <h2 class="timer count-title count-number" data-to="285" data-speed="2000"></h2>
+               <p class="count-text ">Amazing Features</p>
+            </div>
+                  </div>
+             </div>
+  </div>
+</div>
+</div>
+</section>
 
 
 <?php

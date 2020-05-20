@@ -13,9 +13,9 @@
 </head>
 
 <body>
-  <nav class="navbar navbar-expand-lg navbar-light mynav">
+  <nav class="navbar navbar-expand-md navbar-light mynav">
   <a class="navbar-brand" href="index.php">
-  <img src="Images/logo.png" class="d-inline-block align-top">
+  <img src="Images/logo.png" class="d-inline-block align-top img-fluid">
 </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -27,10 +27,10 @@
         <a class="nav-link" href="#">HOME<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">ABOUT US</a>
+        <a class="nav-link" href="#history">ABOUT US</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">PORTFOLIO</a>
+        <a class="nav-link" href="#RecentWork">PORTFOLIO</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">PRICING</a>
