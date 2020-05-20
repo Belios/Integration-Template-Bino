@@ -350,7 +350,7 @@
 
 <div class="row b-5">
   <div class="col-sm-4">
-    <img id="imgstudy" src="Images/study.jpg">
+    <img id="imgstudy" src="images/study.jpg">
   </div>
   <div class="col-sm-8">
     <div class="card">
